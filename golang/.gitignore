@@ -1,0 +1,27 @@
+# Binários
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+dist/
+
+# Arquivos de teste
+*.test
+*.out
+coverage.txt
+
+# Dependências
+vendor/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
